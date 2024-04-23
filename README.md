@@ -31,6 +31,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -43,7 +44,6 @@ Publish the website in the LocalHost.
     font-family: Helvetica, sans-serif;
     background-color: indian red
 }
-
 .book{
     width: 670px;
     height:700px;
